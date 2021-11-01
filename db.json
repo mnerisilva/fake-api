@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Bolo de brigadeiro",
-      "amount": -20
+      "amount": -20.55
     },
     {
       "id": 2,
@@ -13,12 +13,12 @@
     {
       "id": 3,
       "name": "Torta de frango",
-      "amount": -10
+      "amount": -10.6
     },
     {
       "id": 4,
       "name": "Bolo de brigadeiro",
-      "amount": -150
+      "amount": -150.22
     }
   ],
   "tipo-operacao": [
